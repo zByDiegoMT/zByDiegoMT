@@ -9,7 +9,7 @@
 
 ```diff
 Mi informacion
-🚀 @@ Aprendiendo idiomas @@
+🚀 @@Aprendiendo idiomas@@
 
 ```
 
