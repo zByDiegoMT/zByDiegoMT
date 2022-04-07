@@ -8,14 +8,14 @@
 <img align="left" height="200" src="https://www.imore.com/sites/imore.com/files/styles/xlarge/public/field/image/2017/12/coding-cat-01.gif?itok=cU-4PGna"/>
 
 ```diff
-Mi informacion
+@@Mi informacion@@
 🚀 Aprendiendo idiomas
 
 ```
 
 ### Mi página web:
 
-[<img align="left" alt="My discord" width="22px" src="https://cdn.discordapp.com/attachments/961676618496090192/961678865019858944/unknown.png" /> PROXIMAMENTE ]
+[<img align="left" alt="PaginaWeb" width="22px" src="https://cdn.discordapp.com/attachments/961676618496090192/961678865019858944/unknown.png" /> PROXIMAMENTE ]
 <br />
 
 ### Spotify Playing 🎧
@@ -25,7 +25,7 @@ Mi informacion
 
 
 ### Estadisticas de mi perfil !
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zByDiegoMT&count_private=true&show_icons=true?theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zByDiegoMT&count_private=true&show_icons=true?theme=buefy)
 
 
 ## Contador de visitas
