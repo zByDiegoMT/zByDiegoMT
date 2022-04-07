@@ -8,8 +8,8 @@
 <img align="left" height="200" src="https://www.imore.com/sites/imore.com/files/styles/xlarge/public/field/image/2017/12/coding-cat-01.gif?itok=cU-4PGna"/>
 
 ```diff
-@@Mi informacion@@
-🚀 Aprendiendo idiomas
+Mi informacion
+🚀 @@ Aprendiendo idiomas @@
 
 ```
 
