@@ -25,7 +25,7 @@ Mi informacion
 
 
 ### Estadisticas de mi perfil !
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zByDiegoMT&count_private=true&show_icons=true?theme=buefy)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zByDiegoMT&count_private=true&show_icons=true?theme=radical)
 
 
 ## Contador de visitas
