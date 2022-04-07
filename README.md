@@ -8,8 +8,8 @@
 <img align="left" height="200" src="https://www.imore.com/sites/imore.com/files/styles/xlarge/public/field/image/2017/12/coding-cat-01.gif?itok=cU-4PGna"/>
 
 ```diff
-Mi informacion
-🚀 @@Aprendiendo idiomas@@
+@@Mi informacion@@
+🚀 Aprendiendo idiomas
 
 ```
 
@@ -18,7 +18,7 @@ Mi informacion
 [<img align="left" alt="PaginaWeb" width="22px" src="https://cdn.discordapp.com/attachments/961676618496090192/961678865019858944/unknown.png" /> PROXIMAMENTE ]
 <br />
 
-### Spotify Playing 🎧
+### Escuchando Spotify 🎧
 <p align="center">
   <a href="https://open.spotify.com/user/31urux6tuxn5jkf3bonrhiad7lai">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31urux6tuxn5jkf3bonrhiad7lai&cover_image=true&theme=default&bar_color=b9f0b7)](https://github.com/kittinan/spotify-github-profile">
