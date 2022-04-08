@@ -9,11 +9,11 @@
 
 ```diff
 @@Mi informacion@@
-┋🚀┋Aprendiendo idiomas
-┋👤┋Diego
-┋🌌┋16 Years Old.
-┋🔴🟡🔴┋Spanish Boy.
-┋⏳┋4 years of experience in Discord.
+┋🚀┋ Aprendiendo idiomas
+┋👤┋ Diego
+┋🌌┋ 16 Years Old.
+┋🔴🟡🔴🇪🇸┋ Spanish Boy.
+┋⏳┋ 4 years of experience in Discord.
 
 ```
 
