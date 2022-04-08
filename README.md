@@ -12,7 +12,7 @@
 ┋🚀┋ Aprendiendo idiomas
 ┋👤┋ Diego
 ┋🌌┋ 16 Years Old.
-┋🔴🟡🔴🇪🇸┋ Spanish Boy.
+┋🔴🟡🔴┋ Spanish Boy.
 ┋⏳┋ 4 years of experience in Discord.
 
 ```
