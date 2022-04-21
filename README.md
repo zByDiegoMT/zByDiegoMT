@@ -17,13 +17,15 @@
 
 ```
 
-### Mi página web:
+```
+- Mi página web:
+```
 
 [<img align="left" alt="PaginaWeb" width="22px" src="https://cdn.discordapp.com/attachments/961676618496090192/961678865019858944/unknown.png" /> PROXIMAMENTE ]
 <br />
 
 ```diff
-@@ Escuchando Spotify
++ Escuchando Spotify
 ```
 <p align="center">
   <a href="https://open.spotify.com/user/31urux6tuxn5jkf3bonrhiad7lai">
