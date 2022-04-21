@@ -24,7 +24,7 @@
 - Mi página web:
 ```
 <p align="center">
-[<img align="left" alt="PaginaWeb" width="50px" src="https://cdn.discordapp.com/attachments/961676618496090192/961678865019858944/unknown.png" /> PROXIMAMENTE ]
+[<img align="center" alt="PaginaWeb" width="22px" src="https://cdn.discordapp.com/attachments/961676618496090192/961678865019858944/unknown.png" /> PROXIMAMENTE ]
 <br />
 
 ```diff
