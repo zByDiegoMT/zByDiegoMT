@@ -25,7 +25,7 @@
 ### Escuchando Spotify 🎧
 <p align="center">
   <a href="https://open.spotify.com/user/31urux6tuxn5jkf3bonrhiad7lai">
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31urux6tuxn5jkf3bonrhiad7lai&cover_image=true&theme=default&bar_color=ff00c8&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=31urux6tuxn5jkf3bonrhiad7lai&cover_image=true&theme=default&bar_color=ff00c8&bar_color_cover=false)]]
 
 
 ### Estadisticas de mi perfil !
