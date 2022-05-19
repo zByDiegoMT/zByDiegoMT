@@ -1,7 +1,7 @@
 <h1 align="center">Holaa <img src="https://user-images.githubusercontent.com/66147422/150655515-88af3f9e-18a7-46f6-b8de-0d2f3c4caa35.gif" width="40px" />, soy zByDiegoMT, bienvenido :D</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=cb204c&width=500&lines=Bienvenido" />
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=cc99ff&width=500&lines=Bienvenido" />
 </p>
 
 
@@ -24,7 +24,7 @@
 - Mi página web:
 ```
 <p align="center">
-[<img align="center" alt="PaginaWeb" width="22px" src="https://cdn.discordapp.com/attachments/961676618496090192/961678865019858944/unknown.png" /> PROXIMAMENTE ]
+[<img align="center" alt="PaginaWeb" width="22px" src="https://cdn.discordapp.com/attachments/961676618496090192/961678865019858944/unknown.png" /> https://www.zbydiegomt.ga ]
 <br />
 
 ```diff
